@@ -9,7 +9,10 @@ kunalbafna3/kunalbafna3 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- line break -->
+<br />
 
+<!-- projects list -->
 ## Projects
 * [Portfolio](https://github.com/kunalbafna3/Web_Project_2)
 * [Tindog](https://github.com/kunalbafna3/Web_Project_3)

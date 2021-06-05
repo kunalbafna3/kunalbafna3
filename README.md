@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Projects
-* [Portfolio]()
-* Tindog
-* Omnifood
+* [Portfolio](https://github.com/kunalbafna3/Web_Project_2)
+* [Tindog](https://github.com/kunalbafna3/Web_Project_3)
+* [Omnifood](https://github.com/kunalbafna3/Web_Project_4)

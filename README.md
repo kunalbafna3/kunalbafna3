@@ -1,7 +1,6 @@
-- 👋 Hi, I’m kunal bafna
-- 👀 I’m interested in **Front-End Development**.
-- 🌱 I’m currently learning Data Structures and Algorithm, going advance in Front-End Development as well as Back-End. In a learning state but soon, wish to contribute to open source.
-- 💞️ I’m looking to collaborate on technologies related to Front-End Development. I am new to this and too excited to work and learn. I will be updating my profile, adding projects to look to. So if I met the criteria of requirement feel free to contact me.
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kunal Bafna
+
+I’m interested in **Front-End Development**. currently learning Data Structures and Algorithm, going advance in Front-End Development as well as Back-End. In a learning state but soon, wish to contribute to open source. I’m looking to collaborate on technologies related to Front-End Development. I am new to this and too excited to work and learn. I will be updating my profile, adding projects to look to. So if I met the criteria of requirement feel free to **contact me**.
 
 <!---
 kunalbafna3/kunalbafna3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <!-- skills -->
-## Expertise
+## Skills
 
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23232F3E?logo=BOOTSTRAP&logoColor=white&style=for-the-badge" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />

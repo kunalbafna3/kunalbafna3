@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <!-- connect with me -->
 ## Connect with me
 
-
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kunal-bafna-03)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](bafnakunal3@gmail.com)

@@ -1,4 +1,4 @@
-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kunal Bafna
+- ## Hi there, I'm Kunal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I’m interested in **Front-End Development**. currently learning Data Structures and Algorithm, going advance in Front-End Development as well as Back-End. In a learning state but soon, wish to contribute to open source. I’m looking to collaborate on technologies related to Front-End Development. I am new to this and too excited to work and learn. I will be updating my profile, adding projects to look to. So if I met the criteria of requirement feel free to **contact me**.
 

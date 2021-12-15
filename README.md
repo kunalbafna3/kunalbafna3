@@ -42,7 +42,7 @@
 </p>
 <br>
 
-<h2 align="center">My favorite projects</h2>
+<!-- <h2 align="center">My favorite projects</h2>
 <p align="center">
 <ul align="center">
   [Omnifood](https://github.com/kunalbafna3/Omnifood)
@@ -50,6 +50,6 @@
   
  </ul>  
 </p>
-<br />
+<br /> -->
 
 

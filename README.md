@@ -45,9 +45,9 @@
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunalbafna3&show_icons=true&locale=en" alt="kunalbafna3" /></p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbafna3&" alt="kunalbafna3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbafna3&" alt="kunalbafna3" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbafna3&show_icons=true&locale=en&layout=compact" alt="kunalbafna3" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbafna3&show_icons=true&locale=en&layout=compact" alt="kunalbafna3" /></p> -->
 
 <!-- <h2 align="center">My favorite projects</h2>
 <p align="center">

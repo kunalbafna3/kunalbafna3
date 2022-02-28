@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kunal-bafna-03"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>&nbsp;
-<a href="bafnakunal3@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kunal-bafna-03"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="bafnakunal3@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1eYtQdvOWkhgazFPmllI7IFIHVh6So2Qz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FEAA2D?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume" /></a>&nbsp;
+  
 </p>
 <br />
 

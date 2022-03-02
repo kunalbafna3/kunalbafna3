@@ -11,7 +11,7 @@
 <br />
 
 <p align="center"><strong>   Focus on each day, tackle it one by one, and you will be there before you know it.</strong></p>
-<p align="center">Curious, hardworking developer in fourth year of college learning skills which make me feel alive when I work with them. <br/>Currently learning ReactJs.</p>
+<p align="center">Curious, hardworking developer learning skills which make me feel alive when I work with them. <br/>Currently working with ReactJs.</p>
 <br>
 
 

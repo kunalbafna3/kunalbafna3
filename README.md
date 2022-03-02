@@ -1,6 +1,8 @@
 <p>
 <h1 align="center"><b>Hi there, I'm Kunal</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center"><strong>   Focus on each day, tackle it one by one, and you will be there before you know it.</strong></p>
 </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kunal-bafna-03" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -10,8 +12,8 @@
 </p>
 <br />
 
-<p align="center"><strong>   Focus on each day, tackle it one by one, and you will be there before you know it.</strong></p>
-<p align="center">Curious, hardworking developer learning skills which make me feel alive when I work with them. <br/>Currently working with ReactJs.</p>
+
+<p align="center">Creative and self-starting Front-End Developer with over 1 year of experience building stable websites,fast-paced, collaborative environments. Highly proficient in HTML, CSS, JavaScript, and JQuery, as well as have a working knowledge of ReactJS.</p>
 <br>
 
 

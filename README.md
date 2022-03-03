@@ -14,7 +14,9 @@
 <br />
 
 
-<p align="center">Curious, Creative and self-starting Front-End Developer with over 1 year of experience building stable websites. Highly proficient in HTML, CSS, JavaScript, and JQuery, as well as have a working knowledge of ReactJS.</p>
+<p align="center">Curious, Creative and self-starting Front-End Developer with over 1 year of experience building stable websites. Looking for job as a frontend developer.
+
+</p>
 <br>
 
 

@@ -14,7 +14,7 @@
 <br />
 
 
-<p align="center">Curious, creative, adaptable, self-starting full-stack developer with two years of experience building and maintaining web applications. Experienced in building dynamic and responsive websites using popular technologies such as JavaScript, Node.js, React, and MongoDB. Strong knowledge of web development principles and the proven ability to deliver high-quality, scalable code, as well as the ability to effectively troubleshoot and debug code.
+<p align="center">Curious, creative, adaptable, self-motivated full-stack developer with two years of experience building and maintaining web applications. Experienced in building dynamic, responsive websites using popular technologies such as JavaScript, Node.js, React, MongoDB. Strong knowledge of web development principles and proven ability to deliver high-quality, scalable code, as well as the ability to effectively troubleshoot and debug code.
 
 </p>
 <br>

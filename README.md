@@ -8,25 +8,25 @@
  <!-- <a target="_blank" href="https://drive.google.com/file/d/1eYtQdvOWkhgazFPmllI7IFIHVh6So2Qz/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/kunal-bafna-03" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bafnakunal3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a target="_blank" href="https://drive.google.com/file/d/1TsCMSuIZPCNXErj1afSmzCMSl-jM9Ofm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FEAA2D?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume" /></a>&nbsp;
+<!-- <a target="_blank" href="https://drive.google.com/file/d/1TsCMSuIZPCNXErj1afSmzCMSl-jM9Ofm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FEAA2D?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume" /></a>&nbsp; -->
   
 </p>
-<br />
+<!-- <br /> -->
 
 
-<p align="center">Curious, creative, adaptable, self-motivated full-stack developer with two years of experience building and maintaining web applications. Experienced in building dynamic, responsive websites using popular technologies such as JavaScript, Node.js, React, MongoDB. Strong knowledge of web development principles and proven ability to deliver high-quality, scalable code, as well as the ability to effectively troubleshoot and debug code.
+<!-- <p align="center">Curious, creative, adaptable, self-motivated full-stack developer with two years of experience building and maintaining web applications. Experienced in building dynamic, responsive websites using popular technologies such as JavaScript, Node.js, React, MongoDB. Strong knowledge of web development principles and proven ability to deliver high-quality, scalable code, as well as the ability to effectively troubleshoot and debug code.
 
-</p>
-<br>
+</p> -->
+<!-- <br> -->
 
 
 <!-- skills -->
-<h2 align="center">Skills</h2>
-<p align="center">
+<!-- <h2 align="center">Skills</h2> 
+<p align="center"> -->
 <!--   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp; -->
-  <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
+<!--   <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
 <!--   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp; -->
-  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<!--   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23232F3E?logo=BOOTSTRAP&logoColor=white&style=for-the-badge" />&nbsp;
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
@@ -38,8 +38,8 @@
   <img  alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
  <img  alt="apollograpqhQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />&nbsp;
   <img  alt="grapqhQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
-  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
- <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp; -->
+<!--  <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;
   <img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
@@ -48,27 +48,27 @@
   <img alt="materialUi" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;
  <img alt="antui" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />&nbsp;
   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
- <img alt="" src="" />&nbsp;
+ <img alt="" src="" />&nbsp; -->
  
   
 </p>
-<br>
+<!-- <br> -->
 
-<h2 align="center">Tools</h2>
-<p align="center">
-  <img alt="atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />&nbsp;
-  <img alt="codepen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />&nbsp;
+<!-- <h2 align="center">Tools</h2> -->
+<!-- <p align="center"> -->
+<!--   <img alt="atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />&nbsp; -->
+<!--   <img alt="codepen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />&nbsp; -->
 <!--   <img alt="codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" />&nbsp; -->
 <!--   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp; -->
-  <img alt="vsc" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-  <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<!--   <img alt="vsc" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp; -->
+<!--   <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;
- <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
+ <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp; -->
   
-</p>
-<br>
+<!-- </p> -->
+<!--  <br> -->
 
-<br>
+<!-- <br> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunalbafna3&show_icons=true&locale=en" alt="kunalbafna3" /></p> -->
 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbafna3&" alt="kunalbafna3"></p> -->
